@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
-import "../../assets/css/AuthStyles.css";  // Ensure the path is correct
+import "./css/AuthStyles.css";  // Ensure the path is correct
 
 const SignUp = () => {
   const [email, setEmail] = useState("");
