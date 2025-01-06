@@ -1,4 +1,4 @@
-import './css/NavBar.css'
+import './css/Navbar.css'
 // Components/Samplefunc/Navbar.jsx
 
 import React, { useState } from "react";
