@@ -9,8 +9,8 @@ import UseEffect from './Components/Hooks/UseEffect';
 import UseRef from './Components/Hooks/UseRef';
 import ExamResults from './Components/Hooks/UseContext';
 import UseMemo from './Components/Hooks/UseMemo';
-import SignUp from './Components/Samplefunc/SignUp';  // Corrected import for SignUp
-import Login from './Components/Samplefunc/Login';  // Corrected import for Login
+import SignUp from './Components/Samplefunc/Signup';
+import Login from './Components/Samplefunc/login';  // Corrected import for Login
 
 function App() {
   return (
