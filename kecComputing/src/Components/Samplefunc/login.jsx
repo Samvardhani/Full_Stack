@@ -2,8 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import "../../assets/css/AuthStyles.css"; // Ensure this path is correct
-import SignUp from "./SignUp";
-
+import SignUp from "./Signup";
 const Login = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
